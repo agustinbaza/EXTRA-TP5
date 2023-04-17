@@ -1,6 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Anuphan&family=Arvo&family=Bebas+Neue&family=Black+Han+Sans&family=Karla:wght@600&family=Londrina+Outline&family=Montserrat:wght@300&family=Open+Sans&family=Orbitron&family=Poppins&family=Roboto:wght@300&family=Work+Sans:wght@500&display=swap');
+
 * {
     margin: 0px;
     padding: 0px;
+  }
+
+  body {
+    background-color: #c9ffa3;
+    background-image: linear-gradient(270deg, #c9ffa3 0%, #ffffff 50%, #c9ffa3 100%);
+  }
+
+  main {
+    font-family: 'Black Han Sans', sans-serif;
+  }
+
+  hr{
+    margin: 10px 350px;
+    border: solid 1px black;
   }
 
   .navbar {
