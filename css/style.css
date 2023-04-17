@@ -1,0 +1,17 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+
+  .navbar {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  footer {
+    padding: 25px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
